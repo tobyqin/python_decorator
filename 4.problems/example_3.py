@@ -45,6 +45,7 @@ if __name__ == '__main__':
     start_to(do, "my work")
 
     # import inspect
+    # print "INSPECT".center(60, '*')
     # print inspect.getdoc(say)  # good
     # print inspect.getargspec(say)  # failed
     # print inspect.getsource(say)  # failed

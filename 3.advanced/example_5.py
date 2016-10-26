@@ -8,7 +8,7 @@ class logging(object):
     def __init__(self, level='INFO'):
         self.level = level
 
-    def __call__(self, func, *args, **kwargs):
+    def __call__(self, func):
         def wrapper(*args, **kwargs):
             print "[{level}] {time}: enter function {func}()".format(
                 level=self.level,

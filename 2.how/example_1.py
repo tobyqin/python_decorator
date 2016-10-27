@@ -1,5 +1,6 @@
 """
-Without @ syntax (Python <= 2.4)
+Without @ syntax (Python <= 2.4), you can wrap function by:
+func = wrapper(func)
 """
 
 

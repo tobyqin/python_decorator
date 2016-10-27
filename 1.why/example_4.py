@@ -1,3 +1,8 @@
+"""
+Extract common business out of say function, improved, but not best.
+"""
+
+
 def prepare():
     import inspect
     caller_name = inspect.stack()[1][3]

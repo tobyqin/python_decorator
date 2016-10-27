@@ -1,3 +1,8 @@
+"""
+We have to add debug info before say functions, there are some bugs in some say functions.
+"""
+
+
 def say_hello():
     print "[DEBUG]: enter say_hello()"
     print "hello!"

@@ -1,3 +1,8 @@
+"""
+we have lots of say functions.
+"""
+
+
 def say_hello():
     print "hello!"
 

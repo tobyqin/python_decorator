@@ -1,3 +1,8 @@
+"""
+We have to add more business for every say function, duplicate code!
+"""
+
+
 def say_hello():
     print "[DEBUG]: enter say_hello()"
     print 'Prepare and say...',

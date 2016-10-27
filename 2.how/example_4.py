@@ -1,5 +1,6 @@
 """
 Specify argument for target function.
+Only fit for specified case.
 """
 
 

@@ -1,5 +1,6 @@
 """
-With @ syntax (Python > 2.4)
+With @ syntax (Python > 2.4), you can avoid syntax like:
+func = wrapper(func)
 """
 
 

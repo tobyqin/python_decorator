@@ -5,6 +5,7 @@ http://wrapt.readthedocs.io/en/latest/quick-start.html
 from datetime import datetime
 import wrapt
 
+
 # without argument in decorator
 @wrapt.decorator
 def logging(wrapped, instance, args, kwargs):  # instance is a must parameter

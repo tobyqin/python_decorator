@@ -1,5 +1,6 @@
 """
-Write log when enter a function.
+Change the business a little bit.
+Now we have to write log when enter a function.
 """
 
 from datetime import datetime

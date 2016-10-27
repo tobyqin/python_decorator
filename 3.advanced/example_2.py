@@ -1,5 +1,5 @@
 """
-Write log when enter a function with level.
+Write log when enter a function with level. You have to understand closure.
 please go to http://betacat.online/posts/python-closure/
 """
 
